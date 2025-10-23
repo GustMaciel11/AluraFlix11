@@ -1,0 +1,17 @@
+body{
+background-color: black;
+color: azure;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0px) ;
+}
+h1{
+    color: beige;
+font-size: 400px;
+}
+header{
+    border-bottom: greenyellow;
+margin: 20px;
+pedding: 10px;
+color: azure;
+
+}
