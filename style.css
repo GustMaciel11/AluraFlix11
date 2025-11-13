@@ -12,6 +12,24 @@ header{
     border-bottom: greenyellow;
 margin: 20px;
 pedding: 10px;
-color: azure;
+color: azure
+.chamada{
+    background: (beige)
+    padding: 80 px;
+    display: Flex; 
+    justify-content: center
+
+}
+.chamada-Texto{
+    margin-right:8%
+}
+img{
+    height: 200px;
+}
+
+
+
+
+
 
 }
